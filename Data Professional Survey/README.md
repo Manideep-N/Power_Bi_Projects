@@ -1,6 +1,6 @@
 # 📊 Data Professional Survey Analysis
 
-This Power BI project analyses data from a survey of data professionals to explore trends in salary, job roles, technologies, and work habits. It provides visual insights into how different factors such as country, experience, and tools impact compensation and professional experience.
+This Power BI project analyses data from a survey of data professionals to explore trends in salary, job roles, technologies, and work habits. It provides visual insights into how different factors, such as country, experience, and tools, impact compensation and professional experience.
 
 ---
 
@@ -19,7 +19,7 @@ Data Professional Survey Analysis/
 - Understand the salary distribution by job role and country.
 - Identify commonly used programming languages and tools.
 - Examine the effect of work hours, experience, and geography on compensation.
-- Provide a visual dashboard for easy exploration of the data.
+- Provide a visual dashboard for easy data exploration.
 
 ---
 
@@ -44,7 +44,7 @@ Data Professional Survey Analysis/
 - The Power BI report includes filters by job title, industry, country, and education.
 - Interactive visuals help in slicing data across multiple dimensions.
 
-![Dashboard Overview](dashboard.png)
+![Dashboard Overview](Dashboard.png)
 
 ---
 
